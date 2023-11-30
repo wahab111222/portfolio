@@ -6,7 +6,8 @@ import Sidebar from './Components/Sidebar';
 const App = () => {
   return (
     <Router>
-      <Sidebar />
+      <h1>Portfolio is Loading...</h1>
+      {/* <Sidebar /> */}
     </Router>
   );
 };
